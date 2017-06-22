@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 最大概率路径.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#d8d8d8;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#008080;font-family:Times New Roman;font-size:0.916672em}
+		.st3 {font-family:宋体;font-size:1em}
+		.st4 {fill:#000000;font-size:1em}
+		.st5 {fill:#000000;font-family:宋体;font-size:1em}
+		.st6 {font-size:1em}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(198.425,-498.898)">
+			<title>矩形</title>
+			<desc># 路径1 0 —&#62; 1 —&#62; 2 —&#62; 3 —&#62; 4 —&#62; 5 # 分词结果1 去 / 清 / 华 / 大 / 学 / ...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="90.7087" cy="720" width="181.42" height="243.78"/>
+			<rect x="0" y="598.11" width="181.417" height="243.78" class="st1"/>
+			<text x="4" y="615.04" class="st2" v:langID="2052"><v:paragraph/><v:tabList/># <tspan class="st3">路径</tspan>1<v:newlineChar/><tspan
+						x="4" dy="1.316em" class="st4">0  </tspan><tspan class="st5">—</tspan><tspan class="st4">&#62; </tspan><tspan
+						class="st4">1  </tspan><tspan class="st5">—</tspan><tspan class="st4">&#62;  </tspan><tspan class="st4">2  </tspan><tspan
+						class="st5">—</tspan><tspan class="st4">&#62;  </tspan><tspan class="st4">3  </tspan><tspan class="st5">—</tspan><tspan
+						class="st4">&#62;  </tspan><tspan class="st4">4  </tspan><tspan class="st5">—</tspan><tspan class="st4">&#62;  </tspan><tspan
+						class="st4">5 <v:newlineChar/></tspan><tspan x="4" dy="1.316em" class="st6"># </tspan><tspan class="st3">分词结果</tspan>1<v:newlineChar/><tspan
+						x="4" dy="1.316em" class="st5">去</tspan><tspan class="st4"> </tspan><tspan class="st4">/ </tspan><tspan
+						class="st5">清</tspan><tspan class="st4"> </tspan><tspan class="st4">/ </tspan><tspan class="st5">华</tspan><tspan
+						class="st4"> </tspan><tspan class="st4">/ </tspan><tspan class="st5">大</tspan><tspan class="st4"> </tspan><tspan
+						class="st4">/ </tspan><tspan class="st5">学</tspan><tspan class="st4"> </tspan><tspan class="st4">/ </tspan><tspan
+						class="st5">玩<v:newlineChar/></tspan><tspan x="4" dy="1.316em" class="st6"># </tspan><tspan class="st3">路径</tspan>2<v:newlineChar/><tspan
+						x="4" dy="1.316em" class="st4">0  </tspan><tspan class="st5">—</tspan><tspan class="st4">&#62; </tspan><tspan
+						class="st4">1</tspan><tspan class="st4">,  </tspan><tspan class="st4">2  </tspan><tspan class="st5">—</tspan><tspan
+						class="st4">&#62;  </tspan><tspan class="st4">3  </tspan><tspan class="st5">—</tspan><tspan class="st4">&#62;  </tspan><tspan
+						class="st4">4  </tspan><tspan class="st5">—</tspan><tspan class="st4">&#62;  </tspan><tspan class="st4">5<v:newlineChar/></tspan><tspan
+						x="4" dy="1.316em" class="st6"># </tspan><tspan class="st3">分词结果</tspan>2<v:newlineChar/><tspan x="4"
+						dy="1.316em" class="st5">去</tspan><tspan class="st4"> </tspan><tspan class="st4">/ </tspan><tspan
+						class="st5">清华</tspan><tspan class="st4"> </tspan><tspan class="st4">/ </tspan><tspan class="st5">大</tspan><tspan
+						class="st4"> </tspan><tspan class="st4">/ </tspan><tspan class="st5">学</tspan><tspan class="st4"> </tspan><tspan
+						class="st4">/ </tspan><tspan class="st5">玩<v:newlineChar/></tspan><tspan x="4" dy="1.316em" class="st6"># </tspan><tspan
+						class="st3">路径</tspan>3<v:newlineChar/><tspan x="4" dy="1.316em" class="st6">0  </tspan><tspan class="st3">—</tspan>&#62; 1,  2  <tspan
+						class="st3">—</tspan>&#62;  3,   4  <tspan class="st3">—</tspan>&#62;  5<v:newlineChar/><tspan x="4"
+						dy="1.316em" class="st6"># </tspan><tspan class="st3">分词结果</tspan>3<v:newlineChar/><tspan x="4"
+						dy="1.316em" class="st5">去</tspan><tspan class="st4"> </tspan><tspan class="st4">/ </tspan><tspan
+						class="st5">清华</tspan><tspan class="st4"> </tspan><tspan class="st4">/ </tspan><tspan class="st5">大学</tspan><tspan
+						class="st4"> </tspan><tspan class="st4">/ </tspan><tspan class="st5">玩<v:newlineChar/></tspan><tspan x="4"
+						dy="1.316em" class="st6"># </tspan><tspan class="st3">路径</tspan>4<v:newlineChar/><tspan x="4" dy="1.316em"
+						class="st4">0  </tspan><tspan class="st5">—</tspan><tspan class="st4">&#62; </tspan><tspan class="st4">1</tspan><tspan
+						class="st4">,  </tspan><tspan class="st4">2</tspan><tspan class="st4">,  </tspan><tspan class="st4">3</tspan><tspan
+						class="st4">,   </tspan><tspan class="st4">4  </tspan><tspan class="st5">—</tspan><tspan class="st4">&#62;  </tspan><tspan
+						class="st4">5<v:newlineChar/></tspan><tspan x="4" dy="1.316em" class="st6"># </tspan><tspan class="st3">分词结果</tspan>4<v:newlineChar/><tspan
+						x="4" dy="1.316em" class="st5">去</tspan><tspan class="st4"> </tspan><tspan class="st4">/ </tspan><tspan
+						class="st5">清华大学</tspan><tspan class="st4"> </tspan><tspan class="st4">/ </tspan><tspan class="st5">玩</tspan></text>		</g>
+	</g>
+</svg>

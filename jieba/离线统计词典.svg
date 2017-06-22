@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 离线统计词典.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.57814in" height="2.20581in"
+		viewBox="0 0 113.626 158.818" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#d8d8d8;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#0070c0;font-family:宋体;font-size:0.916672em}
+		.st3 {fill:#000000;font-family:微软雅黑;font-size:1em}
+		.st4 {fill:#000000;font-family:Microsoft Sans Serif;font-size:1em}
+		.st5 {font-family:Microsoft Sans Serif;font-size:1em}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(0.12,-0.12)">
+			<title>矩形</title>
+			<desc>... 清华大学 2053 nt 大学 20025 n 去 123402 v 玩 4027 v 清华 34488 ns 清...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="79.5291" width="113.39" height="158.578"/>
+			<rect x="0" y="0.239993" width="113.386" height="158.578" class="st1"/>
+			<text x="4" y="16.02" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>...<v:newlineChar/><tspan x="4"
+						dy="1.212em" class="st3">清华大学</tspan><tspan class="st4"> </tspan><tspan class="st4">2053 </tspan><tspan
+						class="st4">nt<v:newlineChar/></tspan><tspan x="4" dy="1.216em" class="st3">大学</tspan><tspan class="st4"> </tspan><tspan
+						class="st4">20025 </tspan><tspan class="st4">n<v:newlineChar/></tspan><tspan x="4" dy="1.216em" class="st3">去</tspan><tspan
+						class="st4"> </tspan><tspan class="st4">123402 </tspan><tspan class="st4">v<v:newlineChar/></tspan><tspan
+						x="4" dy="1.216em" class="st3">玩</tspan><tspan class="st4"> </tspan><tspan class="st4">4027 </tspan><tspan
+						class="st4">v<v:newlineChar/></tspan><tspan x="4" dy="1.216em" class="st3">清华</tspan><tspan class="st4"> </tspan><tspan
+						class="st4">34488 </tspan><tspan class="st4">ns<v:newlineChar/></tspan><tspan x="4" dy="1.216em"
+						class="st3">清</tspan><tspan class="st4"> </tspan><tspan class="st4">17860 </tspan><tspan class="st4">ns<v:newlineChar/></tspan><tspan
+						x="4" dy="1.216em" class="st3">华</tspan><tspan class="st4"> </tspan><tspan class="st4">6583 </tspan><tspan
+						class="st4">ns<v:newlineChar/></tspan><tspan x="4" dy="1.216em" class="st3">大</tspan><tspan class="st4"> </tspan><tspan
+						class="st4">144099 </tspan><tspan class="st4">a<v:newlineChar/></tspan><tspan x="4" dy="1.216em"
+						class="st3">学</tspan><tspan class="st4"> </tspan><tspan class="st4">17482 </tspan><tspan class="st4">n<v:newlineChar/></tspan><tspan
+						x="4" dy="1.204em" class="st5">...</tspan></text>		</g>
+	</g>
+</svg>

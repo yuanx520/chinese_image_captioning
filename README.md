@@ -8,3 +8,4 @@ Image Captioning in Chinese
 - val_chinese.py     计算指标:bleu,cider,meteor,rouge
 - segment_postprocess.py   分词程序
 # captioning samples
+![Alt text](https://github.com/yuanx520/chinese_image_captioning/result/examples.png "Optional title")

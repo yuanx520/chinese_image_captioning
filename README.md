@@ -7,3 +7,4 @@ Image Captioning in Chinese
 - words.py           生成词表
 - val_chinese.py     计算指标:bleu,cider,meteor,rouge
 - segment_postprocess.py   分词程序
+# captioning samples
